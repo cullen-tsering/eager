@@ -1,0 +1,22 @@
+{
+  "name": "eager",
+  "version": "1.0.0",
+  "description": "eagerly do i translate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cullen-tsering/eager.git"
+  },
+  "keywords": [
+    "bodyig"
+  ],
+  "author": "d. cullen tsering",
+  "license": "n/a",
+  "bugs": {
+    "url": "https://github.com/cullen-tsering/eager/issues"
+  },
+  "homepage": "https://github.com/cullen-tsering/eager"
+}

@@ -1,4 +1,4 @@
-node_modules/*
+webui/node_modules/*
 .vscode/*
 # Compiled source #
 ###################

@@ -1,6 +1,7 @@
 webui/node_modules/*
 .vscode/*
 .idea/*
+webui/views/*.html
 # Compiled source #
 ###################
 *.com
